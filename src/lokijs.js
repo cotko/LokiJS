@@ -2155,7 +2155,7 @@
      * @constructor LokiFsAdapter
      */
     function LokiFsAdapter() {
-      this.fs = require('fs');
+      // this.fs = require('fs');
     }
 
     /**
